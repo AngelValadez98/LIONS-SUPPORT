@@ -1,0 +1,57 @@
+{
+  "name": "#LionssSupport",
+  "short_name": "#LionssSupport",
+  "description": "Esta es una página PWA",
+  "background_color": "#2B2B2B",
+  "theme_color": "#F0DB4F",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./?utm_source=web_app_manifest",
+  "scope": "./",
+  "lang": "es-MX",
+  "icons": [
+    {
+      "src": "lions_16.jpeg",
+      "sizes": "16x16",
+      "type": "image/jpeg"
+  },
+    {
+      "src": "lions_24.jpeg",
+      "sizes": "24x24",
+      "type": "image/jpeg"
+  },
+  {
+      "src": "lions_32.jpeg",
+      "sizes": "32x32",
+      "type": "image/jpeg"
+  },
+
+  {
+      "src": "lions_64.jpeg",
+      "sizes": "64x64",
+      "type": "image/jpeg"
+  },
+
+  {
+      "src": "lions_128.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+  },
+
+  {
+      "src": "lions_192.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+  },
+  {
+      "src": "lions_256.jpeg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+  },
+  {
+    "src": "lions_512.jpeg",
+    "sizes": "512x512",
+    "type": "image/jpeg"
+  }
+]
+}

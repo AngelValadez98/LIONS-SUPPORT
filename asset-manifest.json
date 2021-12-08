@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lions-support/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/lions-support/static/js/main.0f994699.chunk.js",
+    "main.js.map": "/lions-support/static/js/main.0f994699.chunk.js.map",
+    "runtime-main.js": "/lions-support/static/js/runtime-main.07f0d576.js",
+    "runtime-main.js.map": "/lions-support/static/js/runtime-main.07f0d576.js.map",
+    "static/css/2.383c0125.chunk.css": "/lions-support/static/css/2.383c0125.chunk.css",
+    "static/js/2.4afd3645.chunk.js": "/lions-support/static/js/2.4afd3645.chunk.js",
+    "static/js/2.4afd3645.chunk.js.map": "/lions-support/static/js/2.4afd3645.chunk.js.map",
+    "static/js/3.75bb6fa8.chunk.js": "/lions-support/static/js/3.75bb6fa8.chunk.js",
+    "static/js/3.75bb6fa8.chunk.js.map": "/lions-support/static/js/3.75bb6fa8.chunk.js.map",
+    "index.html": "/lions-support/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/lions-support/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/lions-support/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.4afd3645.chunk.js.LICENSE.txt": "/lions-support/static/js/2.4afd3645.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07f0d576.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.4afd3645.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.0f994699.chunk.js"
+  ]
+}
